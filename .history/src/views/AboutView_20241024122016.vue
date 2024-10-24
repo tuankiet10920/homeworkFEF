@@ -1,8 +1,8 @@
 <script setup>
-import Bai4 from '../Labs/Lab4/Bai4.vue'
+import Bai2 from '../Labs/Lab4/Bai2.vue'
 </script>
 <template>
-  <Bai4 />
+  <Bai2 />
 </template>
 
 <style></style>

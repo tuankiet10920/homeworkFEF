@@ -2,6 +2,7 @@
 import { ref } from 'vue'
 import router from '../router/index.js'
 
+const __PATH = '../Labs/'
 const sourceTrs = ref([
   {
     name_lab: 'Lab1',
